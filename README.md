@@ -44,7 +44,7 @@ Dec. 2017 - Sep. 2018
 ```
 
 ## Personal Experience
-### [most - Morse Code Translator](https://play.google.com/store/apps/details?id=com.venchild.morse) 
+### Android Engineer, [most - Morse Code Translator](https://play.google.com/store/apps/details?id=com.venchild.morse) 
 Translate English, Korean, Symbol ⇄ Morse Code, Save and Share
 ```
 [ Android Engineer ]
