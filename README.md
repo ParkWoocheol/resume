@@ -11,7 +11,7 @@ I have developed, distributed, and operated app services as a mobile developer i
 
 I prefer readable codes that are easy to predict results, such as fully automatic espresso machines, rather than complex codes that are difficult to predict results such as hand drip. Also, I prefer coffee that I drink while communicating with my colleagues for the growth of the service rather than coffee that I drink to overcome sleep.
 
-I want to be a developer who can communicate with colleagues through open minded and lead the growth of the development team's culture and services with a good readability code.
+I want to be a developer who can communicate with colleagues through open minded perspective and lead the growth of the development team's culture and services with a good readability code.
 
 ## Work Experience
 ### Android Engineer, [Trustay](https://www.trustay.me/) (Proptech subsidiary of Yanolja)
