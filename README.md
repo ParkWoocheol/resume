@@ -59,9 +59,9 @@ Oct. 2020 - Present
 
 ## Skill
 ```
-Android : Kotlin, Java, RxAndroid, Coroutine, Retrofit, OkHttp, Gson, Glide, 
+Android : Kotlin, Java, Compose, Coroutine, Retrofit, 
           AAC(Data Binding, ViewModel, LiveData, Room, Paging), Firebase
-Back-end : Java, Spring Boot, RESTful API
+Back-end : Kotlin, Java, Spring Boot, RESTful API
 Database : MySQL
 Tools : Android Studio, Slack, Jira, Confluence, Trello, Zeplin, Figma
 Etc : Git/Github/Gitlab/Bitbucket, Watson Conversation
