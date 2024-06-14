@@ -20,22 +20,23 @@ I want to be a developer who can communicate with colleagues through open minded
 [ Android Engineer ]
 Sep. 2021 - Present
 
-- Proptech service Android platform architecture design and development
+- Proptech service android platform architecture design and development
+- Apartment management service android platform architecture design and development
 ```
 ### Android Engineer, [Aptner](https://aptner.com/)
 ```
 [ Android Engineer ]
 Oct. 2018 - Aug. 2021
 
-- Apartment management service Android platform architecture redesign and development
+- Apartment management service android platform architecture redesign and development
 ```
 ### Mobile Software Engineer, [Sendy](https://sendy.ai/)
 ```
 [ Android Engineer ]
 Jun. 2015 - Sep. 2018
 
-- Moving o2o service Android platform architecture redesign and development
-- Cargo o2o new service Android platform architecture design and development
+- Moving o2o service android platform architecture redesign and development
+- Cargo o2o new service android platform architecture design and development
 
 [ iOS Engineer ]
 Jul. 2016 - Sep. 2018
@@ -59,10 +60,7 @@ Oct. 2020 - Present
 
 ## Skill
 ```
-Android : Kotlin, Java, Compose, Coroutine, Retrofit, 
-          AAC(Data Binding, ViewModel, LiveData, Room, Paging), Firebase
+Android : Kotlin, Java, Compose, Coroutine, Retrofit, AAC, Firebase
 Back-end : Kotlin, Java, Spring Boot, RESTful API
-Database : MySQL
 Tools : Android Studio, Slack, Jira, Confluence, Trello, Zeplin, Figma
-Etc : Git/Github/Gitlab/Bitbucket, Watson Conversation
 ```
