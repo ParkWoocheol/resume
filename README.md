@@ -55,6 +55,7 @@ Translate English, Korean, Symbol ⇄ Morse Code, Save and Share
 ```
 [ Android Engineer ]
 Oct. 2020 - Present
+
 - Android platform architecture design and development
 ```
 
